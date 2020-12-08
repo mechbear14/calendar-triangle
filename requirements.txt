@@ -1,0 +1,6 @@
+numpy==1.19.3
+scipy
+reportlab
+pillow
+matplotlib
+scikit-learn
